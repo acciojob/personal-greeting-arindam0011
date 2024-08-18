@@ -1,5 +1,5 @@
-
-import '../Style/App.css';
+import React from 'react'
+import './../Style/App.css';
 import Greetings from './Greetings';
 function App() {
   return (
