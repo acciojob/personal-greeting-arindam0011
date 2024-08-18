@@ -10,7 +10,7 @@ const Greetings = () => {
         setName(greet)
 
       }} />
-      <div>{name}</div>
+      <p>{name}</p>
     </div>
   )
 }
